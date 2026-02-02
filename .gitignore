@@ -1,3 +1,4 @@
 /depth_anything_v2_vitb.pth
 /venv
 *.mp4
+/checkpoints
